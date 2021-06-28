@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31da9f85-f5e4-4403-9c48-78de1268def9" name="Default Changelist" comment="Percolation problem solved">
+      <change afterPath="$PROJECT_DIR$/coursera/algorithms/partI/week1/percolation/src/Percolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera/algorithms/partI/week1/percolation/src/PercolationStats.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uah1dbtoiCNFZOJybsNd3DcGZI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/coursera/algorithms/partI/week1/percolation/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45172414" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vstrouth\GoogleProject\algorithm-problems\coursera\algorithms\partI\week1" />
+      <recent name="C:\Users\vstrouth\GoogleProject\algorithm-problems\coursera\algorithms\part1\week1\unionFind\percolation\src" />
+      <recent name="C:\Users\vstrouth\GoogleProject\algorithm-problems\coursera\algorithms\part1\week1\unionFind" />
+      <recent name="C:\Users\vstrouth\GoogleProject\algorithm-problems\coursera\algorithms" />
+      <recent name="C:\Users\vstrouth\GoogleProject\algorithm-problems\coursera\algorithms\part1\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vstrouth\GoogleProject\algorithm-problems\coursera\algorithms\partI\week1\percolation\src" />
+      <recent name="C:\Users\vstrouth\GoogleProject\algorithm-problems\coursera\algorithms\part1\week1\unionFind\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="percolation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PercolationStats" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31da9f85-f5e4-4403-9c48-78de1268def9" name="Default Changelist" comment="" />
+      <created>1624909393182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624909393182</updated>
+      <workItem from="1624909395327" duration="3751000" />
+      <workItem from="1624913310222" duration="424000" />
+      <workItem from="1624913850539" duration="980000" />
+    </task>
+    <task id="LOCAL-00001" summary="Percolation problem solved">
+      <created>1624910616987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624910616987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Percolation problem solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Percolation problem solved" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2577" y="211" key="#PercolationStats" timestamp="1624913888963">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2577" y="211" key="#PercolationStats/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624913888963" />
+    <state x="2360" y="94" width="1210" height="851" key="#Project_Structure" timestamp="1624914836409">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" width="1210" height="851" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624914836409" />
+    <state x="2638" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624910212442">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2638" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624910212442" />
+    <state x="2586" y="261" key="FileChooserDialogImpl" timestamp="1624914481300">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2586" y="261" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624914481300" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1624913148477">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624913148477" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1624913148477">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624913148477" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1624913148477">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624913148477" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1624913148477">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624913148477" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1624914827475">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624914827475" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1624912734211">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624912734211" />
+    <state x="2262" y="140" key="new project wizard" timestamp="1624914428677">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="140" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624914428677" />
+  </component>
+</project>
